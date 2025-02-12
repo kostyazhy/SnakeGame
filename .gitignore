@@ -52,6 +52,7 @@ Binaries/*
 
 # Builds
 Build/*
+BuildFromBat/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
