@@ -4,3 +4,4 @@ BuildCookRun ^
 -platform=Win64 -clientconfig=Development ^
 -archivedirectory="c:\work\SnakeGame\BuildFromBat" ^
 -cook -stage -archive -pak -package -allmaps 
+
